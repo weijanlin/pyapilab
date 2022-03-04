@@ -12,6 +12,10 @@ python -m venv venv
 ```
 .\venv\Scripts\activate
 ```
+#### Linux 環境
+```
+source ./venv/bin/activate
+```
 #### 3.clone lab code
 > 安裝用到的套件
 ```
