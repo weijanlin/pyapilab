@@ -13,7 +13,7 @@ python -m venv venv
 ```
 git clone https://gitlab.com/maxaiot/tools/apitoolforpython.git
 cd apitoolforpython
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 #### 4.執行Web Services
 python3 APIServer.py
