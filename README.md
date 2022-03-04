@@ -8,6 +8,10 @@ web services 用flask
 ```
 python -m venv venv
 ```
+#### windows 環境
+```
+.\venv\Scripts\activate
+```
 #### 3.clone lab code
 > 安裝用到的套件
 ```
