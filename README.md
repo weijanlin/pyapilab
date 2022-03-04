@@ -19,7 +19,7 @@ source ./venv/bin/activate
 #### 3.clone lab code
 > 安裝用到的套件
 ```
-git clone https://gitlab.com/maxaiot/tools/apitoolforpython.git
+git clone https://github.com/weijanlin/pyapilab.git
 cd apitoolforpython
 pip install -r requirements.txt
 ```
